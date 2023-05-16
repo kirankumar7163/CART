@@ -1,7 +1,7 @@
 {
-  "name": "cart",
+  "name": "cart1",
   "version": "1.0.0",
-  "description": "cart REST API",
+  "description": "cart1 REST API",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
